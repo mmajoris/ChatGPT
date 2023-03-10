@@ -1,0 +1,1 @@
+{"rustc":7983341468551314597,"features":"","target":0,"profile":0,"path":0,"deps":[[7877818063571688364,"build_script_build",false,14411059369232959692]],"local":[{"RerunIfChanged":{"output":"debug/build/chatgpt-161ff3fab78d5d85/output","paths":["tauri.conf.json"]}},{"RerunIfEnvChanged":{"var":"TAURI_CONFIG","val":null}}],"rustflags":[],"metadata":0,"config":0,"compile_kind":0}

@@ -1,0 +1,12 @@
+/Users/michaelmajoris/ChatGPT/target/debug/deps/fern-bd8a6e897ada25c3.rmeta: /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/lib.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/builders.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/errors.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/log_impl.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/colors.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/meta.rs
+
+/Users/michaelmajoris/ChatGPT/target/debug/deps/libfern-bd8a6e897ada25c3.rlib: /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/lib.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/builders.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/errors.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/log_impl.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/colors.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/meta.rs
+
+/Users/michaelmajoris/ChatGPT/target/debug/deps/fern-bd8a6e897ada25c3.d: /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/lib.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/builders.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/errors.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/log_impl.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/colors.rs /Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/meta.rs
+
+/Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/lib.rs:
+/Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/builders.rs:
+/Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/errors.rs:
+/Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/log_impl.rs:
+/Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/colors.rs:
+/Users/michaelmajoris/.cargo/registry/src/github.com-1ecc6299db9ec823/fern-0.6.1/src/meta.rs:

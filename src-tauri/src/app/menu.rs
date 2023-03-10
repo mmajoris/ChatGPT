@@ -262,6 +262,13 @@ pub fn menu_handler(event: WindowMenuEvent<tauri::Wry>) {
       conf::APP_WEBSITE.into(),
       None,
     ),
+    "tokenizer" => window::cmd::wa_window(
+      app,
+      "tokenizer".into(),
+      "Tokenizer".into(),
+      conf::TOKENIZER.into(),
+      None,
+    ),
     "nofwl" => open(&app, conf::NOFWL_APP.to_string()),
     "buy_coffee" => open(&app, conf::BUY_COFFEE.to_string()),
     "popup_search" => {
